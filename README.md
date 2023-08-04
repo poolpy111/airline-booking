@@ -51,14 +51,3 @@ Before you begin, ensure you have the following installed on your machine:
 3. **Choose Seats:** Pick your preferred seats from the available options.
 4. **Buy Tickets:** Complete the reservation by purchasing your tickets.
 
-## Contributing
-
-We welcome contributions from the community. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
-
-## Support
-
-For any support queries or issues related to the application, please raise an issue in the GitHub repository or contact the support team at \`support@airlinebookingsystem.com\`.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
